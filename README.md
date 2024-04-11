@@ -8,3 +8,11 @@ Levando em consideração o custo beneficio, queremos a menor quantidade de erro
 Cada fornecedor forneceu 1000 dados dos produtos em relacao a dimensao da peca e tempo de producao
 
 [Link to Notebook](analise.ipynb)
+
+
+```python
+def greet(name):
+    print("Hello, " + name)
+
+greet("World")
+```
