@@ -16,4 +16,3 @@ def greet(name):
 
 greet("World")
 ```
-ola teste
