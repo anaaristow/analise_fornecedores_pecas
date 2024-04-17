@@ -24,7 +24,7 @@ def plot_box_plot(df):
     plt.show()
 
 plot_box_plot(df)
-```
+``` 
 ![Alt text](https://github.com/anaaristow/machinechoose/blob/main/images/box_plot.png?raw=true)
 
 **Histogram**
