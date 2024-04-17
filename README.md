@@ -25,9 +25,7 @@ def plot_box_plot(df):
 
 plot_box_plot(df)
 ``` 
-![Alt text](https://github.com/anaaristow/machinechoose/blob/main/images/box_plot.png?raw=true)
-
-<img src="https://github.com/anaaristow/machinechoose/blob/main/images/box_plot.png?raw=true" alt="Box Plot" width="300">
+<img src="https://github.com/anaaristow/machinechoose/blob/main/images/box_plot.png?raw=true" alt="Box Plot" width="800">
 
 
 **Histogram**
@@ -47,8 +45,11 @@ def plot_histograms(df):
         
 plot_histograms(df)
 ```
-![Alt text](https://github.com/anaaristow/machinechoose/blob/main/images/hist_A.png?raw=true)
-![Alt text](https://github.com/anaaristow/machinechoose/blob/main/images/hist_B.png?raw=true)
+<div style="display: flex;">
+    <img src="https://github.com/anaaristow/machinechoose/blob/main/images/hist_A.png?raw=true" alt="Histogram A" width="565">
+    <img src="https://github.com/anaaristow/machinechoose/blob/main/images/hist_B.png?raw=true" alt="Histogram B" width="565">
+</div>
+
 
 ## Error estimation
 ```python
