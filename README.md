@@ -1,9 +1,3 @@
-Is a descriptive analysis enough to make a decision?
-
-In this study, I try to show why you cannot take conclusions before analyzing some statistics.
-
-Case: Your manager asks you to choose between two suppliers. To do so, he gives you a sheet containing the supplier (A or B) and the dimension of the item. The requirement is 4.80 ± 0.3 mm.
-
 # Choosing a Supplier
 
 The Problem: your mnager provides you with data samples from two suppliers and you need to choose the best one.
