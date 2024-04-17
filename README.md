@@ -46,8 +46,8 @@ def plot_histograms(df):
 plot_histograms(df)
 ```
 <div style="display: flex;">
-    <img src="https://github.com/anaaristow/machinechoose/blob/main/images/hist_A.png?raw=true" alt="Histogram A" width="565">
-    <img src="https://github.com/anaaristow/machinechoose/blob/main/images/hist_B.png?raw=true" alt="Histogram B" width="565">
+    <img src="https://github.com/anaaristow/machinechoose/blob/main/images/hist_A.png?raw=true" alt="Histogram A" width="500">
+    <img src="https://github.com/anaaristow/machinechoose/blob/main/images/hist_B.png?raw=true" alt="Histogram B" width="500">
 </div>
 
 
