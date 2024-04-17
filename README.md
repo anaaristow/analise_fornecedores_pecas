@@ -27,6 +27,9 @@ plot_box_plot(df)
 ``` 
 ![Alt text](https://github.com/anaaristow/machinechoose/blob/main/images/box_plot.png?raw=true)
 
+<img src="https://github.com/anaaristow/machinechoose/blob/main/images/box_plot.png?raw=true" alt="Box Plot" width="300">
+
+
 **Histogram**
 ```python
 def plot_histograms(df):
